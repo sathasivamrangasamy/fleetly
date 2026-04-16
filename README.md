@@ -18,7 +18,12 @@ Illustrative UI previews (see [docs/screenshots/README.md](docs/screenshots/READ
 
 | Dashboard | Live tracking | Logistics |
 |-----------|----------------|-----------|
-| ![Dashboard](docs/screenshots/screenshot-dashboard.png) | ![Live tracking](docs/screenshots/screenshot-live-tracking.png) | ![Logistics](docs/screenshots/screenshot-logistics.png) |
+<img width="1512" height="945" alt="Screenshot 2026-04-16 at 4 05 24 PM" src="https://github.com/user-attachments/assets/ccb31e82-7f86-4b43-a4a0-0eb90029612b" />
+<img width="1500" height="796" alt="Screenshot 2026-04-16 at 4 05 41 PM" src="https://github.com/user-attachments/assets/a06e0fc4-d80c-400c-9842-92ff7744f60c" />
+<img width="1512" height="951" alt="Screenshot 2026-04-16 at 4 05 34 PM" src="https://github.com/user-attachments/assets/ce66d2ae-655b-44d4-b18d-7f55de9aa47b" />
+<img width="1512" height="894" alt="Screenshot 2026-04-16 at 4 06 31 PM" src="https://github.com/user-attachments/assets/02ea544e-993c-4121-ba75-df19660d7ee0" />
+<img width="1504" height="837" alt="Screenshot 2026-04-16 at 4 06 38 PM" src="https://github.com/user-attachments/assets/6df843cd-2b69-410a-9d60-d116363e9422" />
+<img width="1512" height="928" alt="Screenshot 2026-04-16 at 4 06 46 PM" src="https://github.com/user-attachments/assets/60ebdbe7-6b48-4147-8d61-88b93795e0a5" />
 
 ## Quick start
 
